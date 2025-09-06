@@ -1,4 +1,5 @@
+#  Ejemplo 1 
 
-
-
-print ("Hello world ")
+# Primer programa de introduccion a python 
+# Funcion de imprimir lel famoso hello worlld en la consola 
+print ("Hello world  !!  ")
