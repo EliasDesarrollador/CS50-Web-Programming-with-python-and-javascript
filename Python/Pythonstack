@@ -1,0 +1,29 @@
+
+Preparar tu Stack para programar en python 
+
+Si es que ya no tenias.
+ En linux
+   Actualizar el sistema 
+   En la terminal  corre  :     
+   sudo apt update  && sudo apt upgrade
+
+   Instalar python : 
+   sudo apt install python3  -y
+
+   Verificar la instalacion y la version :
+   python3 --version 
+
+   Instalar pip (Gestor de paquetes de python) :
+   sudo apt install python3-pip -y
+
+   Verificar la version :
+   pip3 --version
+
+   Instalar venv ( para entornos virtuales )
+   Este sirve para que cada proyecto  tenga sus propias librerias: 
+    sudo apt install pyhon3-venv -y
+
+    Para crear un entorno virtual : 
+    pyrhon3 -m venv mi_entorno ( el nombre de tu entorno)
+    source mi_entorno/bin/activate
+    
